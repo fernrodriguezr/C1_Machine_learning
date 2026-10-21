@@ -1,0 +1,7 @@
+{
+  "modelo": "Random Forest en escala real",
+  "c_fp": 599.4,
+  "c_fn": 12150.0,
+  "umbral_teorico": 0.047,
+  "umbral_cv": 0.055
+}
